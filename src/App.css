@@ -28,6 +28,25 @@
   color: #61dafb;
 }
 
+.header-color {
+  background-color: #ccccb3;
+}
+
+.center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+}
+
+.th-align-left {
+  text-align: left;
+}
+
+.container-margin {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
