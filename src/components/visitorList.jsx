@@ -116,7 +116,7 @@ class VisitorList extends Component {
             handleAdd={this.handleAdd}
             handleSearch={this.handleSearch}
           ></Header>
-          <div className="container container-margin ">
+          <div className="container">
             <table className="table">
               <thead className="header-color">
                 <tr>
